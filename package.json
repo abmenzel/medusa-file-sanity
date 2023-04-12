@@ -1,6 +1,6 @@
 {
 	"name": "medusa-file-sanity",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "Store uploaded files to your Medusa backend using Sanity.",
 	"main": "index.js",
 	"repository": {
