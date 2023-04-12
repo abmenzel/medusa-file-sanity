@@ -1,4 +1,4 @@
-# Sanity File Service
+# medusa-file-sanity
 
 Store uploaded files to your Medusa backend on Sanity.
 
@@ -60,4 +60,3 @@ yarn start
 ```
 
 2\. Upload an image for a product using the admin dashboard or using [the Admin APIs](https://docs.medusajs.com/api/admin#tag/Upload).
-# medusa-file-sanity
